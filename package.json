@@ -1,0 +1,24 @@
+{
+  "name": "parseserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0",
+    "isomorphic-fetch": "^2.2.1",
+    "mongoose": "^4.5.8",
+    "parse": "^1.9.0",
+    "parse-dashboard": "^1.0.14",
+    "parse-server": "^2.2.16",
+    "pdfjs-dist": "^1.5.389",
+    "rethinkdb": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

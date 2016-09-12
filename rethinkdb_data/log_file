@@ -1,0 +1,112 @@
+2016-08-04T16:10:21.977636000 0.018808s notice: Recursively removing directory /Users/raineroviir/ParseServer/rethinkdb_data/tmp
+2016-08-04T16:10:21.978867000 0.020042s notice: Initializing directory /Users/raineroviir/ParseServer/rethinkdb_data
+2016-08-04T16:10:21.978951000 0.020123s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/raineroviir/ParseServer/rethinkdb_data' did not already exist or is empty.)
+2016-08-04T16:10:21.978980000 0.020152s notice: Running rethinkdb 2.2.4 (CLANG 7.0.2 (clang-700.1.81))...
+2016-08-04T16:10:21.994553000 0.035727s notice: Running on Darwin 15.6.0 x86_64
+2016-08-04T16:10:21.994614000 0.035786s notice: Loading data from directory /Users/raineroviir/ParseServer/rethinkdb_data
+2016-08-04T16:10:22.125991000 0.167162s info: Automatically using cache size of 100 MB
+2016-08-04T16:10:22.125999000 0.167171s warn: Cache size does not leave much memory for server and query overhead (available memory: 992 MB).
+2016-08-04T16:10:22.126004000 0.167175s warn: Cache size is very low and may impact performance.
+2016-08-04T16:10:22.127663000 0.168834s notice: Listening for intracluster connections on port 29015
+2016-08-04T16:10:22.129811000 0.170982s notice: Listening for client driver connections on port 28015
+2016-08-04T16:10:22.129941000 0.171112s notice: Listening for administrative HTTP connections on port 8080
+2016-08-04T16:10:22.129945000 0.171116s notice: Listening on addresses: 127.0.0.1, ::1
+2016-08-04T16:10:22.129946000 0.171117s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2016-08-04T16:10:22.129949000 0.171120s notice: Server ready, "rainers_MacBook_Pro_local_gv3" 2526d986-1a4e-4f79-a889-8a50083ccbc7
+2016-08-04T16:10:22.864920000 0.906092s notice: A newer version of the RethinkDB server is available: 2.3.4. You can read the changelog at <https://github.com/rethinkdb/rethinkdb/releases>.
+2016-08-04T16:11:10.851434000 48.890435s notice: Server got SIGINT from pid 481, uid 501; shutting down...
+2016-08-04T16:11:10.851593000 48.890594s notice: Shutting down client connections...
+2016-08-04T16:11:10.851737000 48.890737s notice: All client connections closed.
+2016-08-04T16:11:10.851747000 48.890747s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2016-08-04T16:11:10.856384000 48.895385s notice: Storage engine shut down.
+2016-08-04T16:11:45.114863000 0.005688s notice: Running rethinkdb 2.2.4 (CLANG 7.0.2 (clang-700.1.81))...
+2016-08-04T16:11:45.121259000 0.012083s notice: Running on Darwin 15.6.0 x86_64
+2016-08-04T16:11:45.121344000 0.012165s notice: Loading data from directory /Users/raineroviir/ParseServer/rethinkdb_data
+2016-08-04T16:11:45.171690000 0.062511s info: Cache size is set to 3 MB
+2016-08-04T16:11:45.171697000 0.062518s warn: Cache size is very low and may impact performance.
+2016-08-04T16:11:45.172788000 0.063609s notice: Listening for intracluster connections on port 29015
+2016-08-04T16:11:45.173860000 0.064681s notice: Listening for client driver connections on port 28015
+2016-08-04T16:11:45.174046000 0.064867s notice: Listening for administrative HTTP connections on port 8080
+2016-08-04T16:11:45.174051000 0.064871s notice: Listening on addresses: 127.0.0.1, ::1
+2016-08-04T16:11:45.174052000 0.064872s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2016-08-04T16:11:45.174054000 0.064874s notice: Server ready, "rainers_MacBook_Pro_local_gv3" 2526d986-1a4e-4f79-a889-8a50083ccbc7
+2016-08-04T16:11:45.648781000 0.539602s notice: A newer version of the RethinkDB server is available: 2.3.4. You can read the changelog at <https://github.com/rethinkdb/rethinkdb/releases>.
+2016-08-04T16:11:47.621359000 2.512085s notice: Server got SIGINT from pid 481, uid 501; shutting down...
+2016-08-04T16:11:47.621469000 2.512195s notice: Shutting down client connections...
+2016-08-04T16:11:47.621548000 2.512275s notice: All client connections closed.
+2016-08-04T16:11:47.621554000 2.512281s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2016-08-04T16:11:47.621771000 2.512498s notice: Storage engine shut down.
+2016-08-04T16:13:23.547513000 0.020335s notice: Running rethinkdb 2.3.4 (CLANG 7.3.0 (clang-703.0.31))...
+2016-08-04T16:13:23.551744000 0.024563s notice: Running on Darwin 15.6.0 x86_64
+2016-08-04T16:13:23.551785000 0.024603s notice: Loading data from directory /Users/raineroviir/ParseServer/rethinkdb_data
+2016-08-04T16:13:23.555827000 0.028646s notice: Migrating cluster metadata to v2.3
+2016-08-04T16:13:23.605175000 0.077994s info: Automatically using cache size of 100 MB
+2016-08-04T16:13:23.605183000 0.078002s warn: Cache size does not leave much memory for server and query overhead (available memory: 1122 MB).
+2016-08-04T16:13:23.605187000 0.078005s warn: Cache size is very low and may impact performance.
+2016-08-04T16:13:23.606627000 0.079446s notice: Listening for intracluster connections on port 29015
+2016-08-04T16:13:23.607735000 0.080554s notice: Listening for client driver connections on port 28015
+2016-08-04T16:13:23.607897000 0.080715s notice: Listening for administrative HTTP connections on port 8080
+2016-08-04T16:13:23.607900000 0.080718s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2016-08-04T16:13:23.607907000 0.080725s notice: Listening on driver addresses: 127.0.0.1, ::1
+2016-08-04T16:13:23.607909000 0.080727s notice: Listening on http addresses: 127.0.0.1, ::1
+2016-08-04T16:13:23.607913000 0.080731s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2016-08-04T16:13:23.607918000 0.080736s notice: Server ready, "rainers_MacBook_Pro_local_gv3" 2526d986-1a4e-4f79-a889-8a50083ccbc7
+2016-08-04T16:13:38.170303000 14.642461s notice: Server got SIGINT from pid 481, uid 501; shutting down...
+2016-08-04T16:13:38.170467000 14.642625s notice: Shutting down client connections...
+2016-08-04T16:13:38.170606000 14.642763s notice: All client connections closed.
+2016-08-04T16:13:38.170613000 14.642770s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2016-08-04T16:13:38.176206000 14.648363s notice: Storage engine shut down.
+2016-08-04T16:13:43.336148000 0.009261s notice: Running rethinkdb 2.3.4 (CLANG 7.3.0 (clang-703.0.31))...
+2016-08-04T16:13:43.340281000 0.013390s notice: Running on Darwin 15.6.0 x86_64
+2016-08-04T16:13:43.340322000 0.013430s notice: Loading data from directory /Users/raineroviir/ParseServer/rethinkdb_data
+2016-08-04T16:13:43.414765000 0.087873s info: Cache size is set to 3 MB
+2016-08-04T16:13:43.414773000 0.087881s warn: Cache size is very low and may impact performance.
+2016-08-04T16:13:43.415724000 0.088832s notice: Listening for intracluster connections on port 29015
+2016-08-04T16:13:43.416901000 0.090009s notice: Listening for client driver connections on port 28015
+2016-08-04T16:13:43.417048000 0.090156s notice: Listening for administrative HTTP connections on port 8080
+2016-08-04T16:13:43.417051000 0.090159s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2016-08-04T16:13:43.417054000 0.090162s notice: Listening on driver addresses: 127.0.0.1, ::1
+2016-08-04T16:13:43.417056000 0.090164s notice: Listening on http addresses: 127.0.0.1, ::1
+2016-08-04T16:13:43.417059000 0.090167s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2016-08-04T16:13:43.417063000 0.090171s notice: Server ready, "rainers_MacBook_Pro_local_gv3" 2526d986-1a4e-4f79-a889-8a50083ccbc7
+2016-08-04T16:13:51.187108000 7.859886s notice: Server got SIGINT from pid 481, uid 501; shutting down...
+2016-08-04T16:13:51.187326000 7.860104s notice: Shutting down client connections...
+2016-08-04T16:13:51.187602000 7.860380s notice: All client connections closed.
+2016-08-04T16:13:51.187607000 7.860386s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2016-08-04T16:13:51.188041000 7.860819s notice: Storage engine shut down.
+2016-08-04T16:13:54.937204000 0.009965s notice: Running rethinkdb 2.3.4 (CLANG 7.3.0 (clang-703.0.31))...
+2016-08-04T16:13:54.940768000 0.013527s notice: Running on Darwin 15.6.0 x86_64
+2016-08-04T16:13:54.940808000 0.013566s notice: Loading data from directory /Users/raineroviir/ParseServer/rethinkdb_data
+2016-08-04T16:13:55.004078000 0.076836s info: Automatically using cache size of 100 MB
+2016-08-04T16:13:55.004088000 0.076846s warn: Cache size does not leave much memory for server and query overhead (available memory: 1122 MB).
+2016-08-04T16:13:55.004093000 0.076851s warn: Cache size is very low and may impact performance.
+2016-08-04T16:13:55.005175000 0.077933s notice: Listening for intracluster connections on port 29015
+2016-08-04T16:13:55.006824000 0.079582s notice: Listening for client driver connections on port 28015
+2016-08-04T16:13:55.006997000 0.079755s notice: Listening for administrative HTTP connections on port 8080
+2016-08-04T16:13:55.007000000 0.079758s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2016-08-04T16:13:55.007006000 0.079764s notice: Listening on driver addresses: 127.0.0.1, ::1
+2016-08-04T16:13:55.007008000 0.079766s notice: Listening on http addresses: 127.0.0.1, ::1
+2016-08-04T16:13:55.007014000 0.079771s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2016-08-04T16:13:55.007019000 0.079777s notice: Server ready, "rainers_MacBook_Pro_local_gv3" 2526d986-1a4e-4f79-a889-8a50083ccbc7
+2016-08-04T21:08:28.668495000 16495.516132s notice: Server got SIGINT from pid 481, uid 501; shutting down...
+2016-08-04T21:08:28.668826000 16495.516463s notice: Shutting down client connections...
+2016-08-04T21:08:28.669819000 16495.517456s notice: All client connections closed.
+2016-08-04T21:08:28.669958000 16495.517595s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2016-08-04T21:08:28.674763000 16495.522400s notice: Storage engine shut down.
+2016-08-05T12:04:42.757344000 0.024523s notice: Running rethinkdb 2.3.4 (CLANG 7.3.0 (clang-703.0.31))...
+2016-08-05T12:04:42.760991000 0.028167s notice: Running on Darwin 15.6.0 x86_64
+2016-08-05T12:04:42.761026000 0.028200s notice: Loading data from directory /Users/raineroviir/ParseServer/rethinkdb_data
+2016-08-05T12:04:42.805906000 0.073081s info: Automatically using cache size of 353 MB
+2016-08-05T12:04:42.807669000 0.074844s notice: Listening for intracluster connections on port 29015
+2016-08-05T12:04:42.809288000 0.076463s notice: Listening for client driver connections on port 28015
+2016-08-05T12:04:42.809474000 0.076649s notice: Listening for administrative HTTP connections on port 8080
+2016-08-05T12:04:42.809476000 0.076651s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2016-08-05T12:04:42.809480000 0.076655s notice: Listening on driver addresses: 127.0.0.1, ::1
+2016-08-05T12:04:42.809482000 0.076656s notice: Listening on http addresses: 127.0.0.1, ::1
+2016-08-05T12:04:42.809485000 0.076660s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2016-08-05T12:04:42.809489000 0.076663s notice: Server ready, "rainers_MacBook_Pro_local_gv3" 2526d986-1a4e-4f79-a889-8a50083ccbc7
+2016-08-05T20:24:59.357159000 26130.079230s notice: Server got SIGINT from pid 23165, uid 501; shutting down...
+2016-08-05T20:24:59.357943000 26130.080014s notice: Shutting down client connections...
+2016-08-05T20:24:59.358598000 26130.080669s notice: All client connections closed.
+2016-08-05T20:24:59.358608000 26130.080679s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2016-08-05T20:24:59.361496000 26130.083567s notice: Storage engine shut down.

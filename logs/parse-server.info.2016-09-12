@@ -1,0 +1,1 @@
+{"error":{"code":119,"message":"Clients aren't allowed to perform the find operation on the installation collection."},"level":"error","message":"Error handling request: ParseError {\n  code: 119,\n  message: 'Clients aren\\'t allowed to perform the find operation on the installation collection.' }","timestamp":"2016-09-12T17:36:59.664Z"}
